@@ -1,0 +1,9 @@
+[package]
+name = "wake-on-lan-web"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+async-process = "1.6"
+lazy_static = "1.4.0"
